@@ -5,19 +5,21 @@
   <h1 align="center">  Hello! Welcome to my page .</h1> <img align="right" width="70" height="50" src="https://media3.giphy.com/media/d8d7kW0JUCUDwHpDsk/200w.webp?cid=ecf05e47nztdy9xhkont61aykwkzrh39zjysolffh8whwbep&rid=200w.webp" >
   <h4 align="center"> Nice to meet you, my name is Rafael! I love technology.</h4>  
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
-
-
   <hr/>
-   
   
  * 💻  fifth semester of computer engineering )
 
 * 📚 I'm currently studying with the class of Campinas Tech Talents!
 
 * 📚  I’m currently learning React with JavaScript and  Typescrip
- 
+<br/>
 
+
+
+<img align="left" width="200" height="120" src="https://media1.giphy.com/media/ZeXZD7VCxJ1EgQuCv5/200.webp?cid=ecf05e47xov8g4hosiakc3cnlxhl9jsttxciz8tb31ogcm8u&rid=200.webp" >
   
+
+<img align="left" width="140" height="80" src="https://media1.giphy.com/media/kcN50NuCFsMlNwKMGj/giphy.webp?cid=ecf05e47qec22mj6d1oogq8bh0hxdvlbjz4flbhttbafo67l&rid=giphy.webp" >
 
 
 <h3 align= "right" ">Languages and Tools:</h3>
@@ -33,14 +35,11 @@
    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a>   |
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>|
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a>
- 
 
+</p> 
+<br/>
 
-
-</p>
- 
- 
- 
+<br/>
  
  📫 Connect with me:
  
@@ -48,12 +47,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokoyama/)](https://www.linkedin.com/in/rafael-yokoyama/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgava921@gmail.com)](mailto:rafaelgava921@gmail.com)
  
-
-
- 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=merko) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact)](https://github.com/Rafael-Yokoyama)
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=merko)
+
  
 - Thanks for visiting. 
  
