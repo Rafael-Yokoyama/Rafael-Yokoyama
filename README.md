@@ -7,11 +7,11 @@
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
   <hr/>
   
- * 💻  fifth semester of computer engineering )
+ * 💻  fifth semester of computer engineering   ;)
 
 * 📚 I'm currently studying with the class of Campinas Tech Talents!
 
-* 📚  I’m currently learning React with JavaScript and  Typescrip
+* 📚  I’m currently learning React with JavaScript and  TypeScript
 <br/>
 
 
