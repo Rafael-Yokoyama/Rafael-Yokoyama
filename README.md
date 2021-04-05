@@ -9,9 +9,9 @@
   
  * 💻  fifth semester of computer engineering   ;)
 
-* 📚 I'm currently studying with the class of Campinas Tech Talents!
+* 📚 I'm currently studying at freeCodeCamp
 
-* 📚  I’m currently learning React with JavaScript and  TypeScript
+* 📚  I’m currently studying React with JavaScript and  TypeScript
 <br/>
 
 
