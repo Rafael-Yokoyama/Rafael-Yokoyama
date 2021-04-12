@@ -7,13 +7,25 @@
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
   <hr/>
   
+  
+  ###   👨🏿‍🦱  About me 
+
+  
  * 💻  fifth semester of computer engineering   ;)
 
-* 📚 I'm currently studying at freeCodeCamp
+ * 📚 I'm currently studying at freeCodeCamp
 
-* 📚  I’m currently studying React with JavaScript and  TypeScript
+ * 🌱  I’m currently studying React with JavaScript and  TypeScript
 <br/>
 
+### 📊  2021 Goals:
+   * 📂  Expand my portfolio
+   
+   * 🤝  Contribuite in open-source projects
+    
+   * 📈  Improve UI/UX skills
+
+<br/>
 
 
 <img align="left" width="200" height="120" src="https://media1.giphy.com/media/ZeXZD7VCxJ1EgQuCv5/200.webp?cid=ecf05e47xov8g4hosiakc3cnlxhl9jsttxciz8tb31ogcm8u&rid=200.webp" >
@@ -44,18 +56,42 @@
 
 <br/>
  
- 📫 Connect with me:
+ ### 📫 Connect with me:
  
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokoyama/)](https://www.linkedin.com/in/rafael-yokoyama/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgava921@gmail.com)](mailto:rafaelgava921@gmail.com)
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=dracula) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact&theme=dracula)](https://github.com/Rafael-Yokoyama)
  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=dracula"/>
+  <br/>
+</p>
+
+
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Yokoyama&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+ <p align="center">
  
-- Thanks for visiting. 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact&theme=dracula"/>
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Yokoyama&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+  <br/>
+</p>
  
-- Enjoy!!! 
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rafael-Yokoyama&row=1&theme=dracula"/>
+  <br/>
+</p>
+
+
+   <p align="center">
+ - Thanks for visiting. 
+    </p>
+
+   <p align="center">
+ - Enjoy!!! 
+    </p>
+
+
+ 
+
