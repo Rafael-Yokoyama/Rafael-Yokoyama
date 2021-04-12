@@ -50,11 +50,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokoyama/)](https://www.linkedin.com/in/rafael-yokoyama/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgava921@gmail.com)](mailto:rafaelgava921@gmail.com)
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=merko) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact)](https://github.com/Rafael-Yokoyama)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=dracula) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact&theme=dracula)](https://github.com/Rafael-Yokoyama)
  
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Yokoyama)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Yokoyama&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
  
 - Thanks for visiting. 
  
