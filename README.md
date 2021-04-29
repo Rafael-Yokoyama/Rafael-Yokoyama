@@ -2,10 +2,15 @@
 
 
  
-  <h1 align="center">  Hello! Welcome to my page .</h1> <img align="right" width="70" height="50" src="https://media3.giphy.com/media/d8d7kW0JUCUDwHpDsk/200w.webp?cid=ecf05e47nztdy9xhkont61aykwkzrh39zjysolffh8whwbep&rid=200w.webp" >
+  <h1 align="center">  Hello! Welcome to my page .</h1> 
+  
   <h4 align="center"> Nice to meet you, my name is Rafael! I love technology.</h4>  
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelYokoyama&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Rafael Yokoyama" /> </p>
   <hr/>
+  
+
   
   
   ###   👨🏿‍🦱  About me 
@@ -61,6 +66,9 @@
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokoyama/)](https://www.linkedin.com/in/rafael-yokoyama/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgava921@gmail.com)](mailto:rafaelgava921@gmail.com)
+
+<!-- VIEWS -->
+
  
  
   <p align="center">
