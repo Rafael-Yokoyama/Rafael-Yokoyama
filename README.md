@@ -18,8 +18,6 @@
   
  * 💻  fifth semester of computer engineering   ;)
 
- * 📚 I'm currently studying at freeCodeCamp
-
  * 🌱  I’m currently studying React with JavaScript and  TypeScript
 <br/>
 
