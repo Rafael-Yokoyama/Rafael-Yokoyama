@@ -2,7 +2,8 @@
 
 
  
-  <h1 align="center">  Hello! Welcome to my page .</h1> 
+
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Welcome to my page</h1>
   
   <h4 align="center"> Nice to meet you, my name is Rafael! I love technology.</h4>  
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
@@ -10,13 +11,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelYokoyama&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Rafael Yokoyama" /> </p>
   <hr/>
   
-
   
   
   ###   👨🏿‍🦱  About me 
 
   
- * 💻  fifth semester of computer engineering   ;)
+ * 💻   seventh semester of computer engineering   ;)
 
  * 🌱  I’m currently studying React with JavaScript and  TypeScript
 <br/>
@@ -30,53 +30,51 @@
 
 <br/>
 
+                                                                                                                                                      
+  ## 🛠 &nbsp;Tech Stack
 
-<img align="left" width="200" height="120" src="https://media1.giphy.com/media/ZeXZD7VCxJ1EgQuCv5/200.webp?cid=ecf05e47xov8g4hosiakc3cnlxhl9jsttxciz8tb31ogcm8u&rid=200.webp" >
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;                                                                                             ![bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;                                             
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;                                                                                       
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;                                                                                             ![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+                                                                                                                                                      
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
+</a>
+<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/rafael.yokoyama99/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rafael_yokoyama-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+ 
+
+
+ <img align="right" width="100" height="80" src="https://media1.giphy.com/media/ZeXZD7VCxJ1EgQuCv5/200.webp?cid=ecf05e47xov8g4hosiakc3cnlxhl9jsttxciz8tb31ogcm8u&rid=200.webp" >
   
 
-<img align="left" width="140" height="80" src="https://media1.giphy.com/media/kcN50NuCFsMlNwKMGj/giphy.webp?cid=ecf05e47qec22mj6d1oogq8bh0hxdvlbjz4flbhttbafo67l&rid=giphy.webp" >
-
-
-<h3 align= "right" ">Languages and Tools:</h3>
-<p  align= "right" ;
-> 
- <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/60978293/113783088-9679da00-9709-11eb-8bd8-dabe8907d340.png" alt="dart" width="20" height="20"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a>|
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>  
-   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a>|
-  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20" height="20"/> </a> 
-   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a>   |
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>|
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a>
-
-
-
-</p> 
-<br/>
-
-<br/>
+<img align="right" width="140" height="80" src="https://media1.giphy.com/media/kcN50NuCFsMlNwKMGj/giphy.webp?cid=ecf05e47qec22mj6d1oogq8bh0hxdvlbjz4flbhttbafo67l&rid=giphy.webp" >
  
- ### 📫 Connect with me:
- 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-yokoyama/)](https://www.linkedin.com/in/rafael-yokoyama/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelgava921@gmail.com)](mailto:rafaelgava921@gmail.com)
-
-<!-- VIEWS -->
-
- 
- 
-  <p align="center">
+  <p >
     <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=dracula"/>
   <br/>
 </p>
 
-
  
- <p align="center">
+ <p >
  
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Yokoyama&layout=compact&theme=dracula"/>
   
@@ -84,17 +82,17 @@
   <br/>
 </p>
  
-  <p align="center">
+  <p>
     <img src="https://github-profile-trophy.vercel.app/?username=Rafael-Yokoyama&row=1&theme=dracula"/>
   <br/>
 </p>
 
 
-   <p align="center">
+   <p >
  - Thanks for visiting. 
     </p>
 
-   <p align="center">
+   <p >
  - Enjoy!!! 
     </p>
 
