@@ -55,7 +55,7 @@
   <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
 </a>
 <a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Rafael-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/rafael.yokoyama99/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rafael_yokoyama-05122A?style=flat&logo=instagram" alt="instagram"/>
