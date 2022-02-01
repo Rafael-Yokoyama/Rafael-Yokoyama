@@ -29,9 +29,15 @@
    * 📈  Improve UI/UX skills
 
 <br/>
+   <h1 
+       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
+ <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
+
+</h1>
 
                                                                                                                                                       
   ## 🛠 &nbsp;Tech Stack
+  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -46,7 +52,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)                                                                                            ![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-
 
 
   <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
