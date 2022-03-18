@@ -10,6 +10,12 @@
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelYokoyama&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Rafael Yokoyama" /> </p>
   <hr/>
+     <h1 
+       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
+ <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
+
+</h1>
+
   
   
   
@@ -29,11 +35,6 @@
    * 📈  Improve UI/UX skills
 
 <br/>
-   <h1 
-       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
- <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
-
-</h1>
 
                                                                                                                                                       
   ## 🛠 &nbsp;Tech Stack
