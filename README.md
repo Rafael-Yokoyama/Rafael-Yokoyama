@@ -7,8 +7,20 @@
   
   <h4 align="center"> Nice to meet you, my name is Rafael! I love technology.</h4>  
    <h5 align= "center">   front end developer and ui designer beginner  </h5>  
+   <p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
+</a>
+<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Rafael-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/rafael.yokoyama99/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rafael_yokoyama-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelYokoyama&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Rafael Yokoyama" /> </p>
+ 
+
   <hr/>
      <h1 
        align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
@@ -52,26 +64,11 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)                                                                                       
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)                                                                                            ![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) 
 
 
-  <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">                                                                                                                                                      
-Social Links </h1>
   
-<p align="center" style="background:yellow">
-<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
-</a>
-<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rafael-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/rafael.yokoyama99/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rafael_yokoyama-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
- 
-
-
 
   <p  align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Yokoyama&show_icons=true&theme=dracula"/>
