@@ -19,6 +19,7 @@
 </a>
 </p>
  
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rafael-Yokoyama&label=Profile%20views&color=ffcd5c&style=flat" alt="rafael" /> </p>
  
 
   <hr/>
