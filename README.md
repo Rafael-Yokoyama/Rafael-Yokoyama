@@ -1,30 +1,38 @@
  
 
-
- 
-
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Welcome to my page</h1>
-  
-  <h4 align="center"> Nice to meet you, my name is Rafael! I love technology.</h4>  
-   <h5 align= "center">   front end developer and ui designer beginner  </h5>  
-   <p align="center" style="background:yellow">
-<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Yokoyama)](https://github.com/Rafael-Yokoyama" alt="github"/>  
-</a>
-<a href="https://www.linkedin.com/in/rafael-yokoyama/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rafael-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/rafael.yokoyama99/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rafael_yokoyama-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Rafael-Yokoyama/count.svg" />
 </p>
+ <hr>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
+
+ <p align="center">
+  <em>
+  This is ME, Rafael Yokoyama, 4nd year  undergraduate  <b>Computer  Engineering</b>. <br>
+    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp<br>
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+ <br>
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rafael-Yokoyama&label=Profile%20views&color=ffcd5c&style=flat" alt="rafael" /> </p>
+ > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;I love: ***Games*** or ***Movies***😉
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working at Smart Innovation ..
+- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
+- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Backend 😭!
+- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
+
  
 
   <hr/>
-     <h1 
-       align="center"> <img src="https://github.com/msmaiaa/msmaiaa/blob/main/cat.gif" width="60px">
+     <h1 align="center">  
  <img src="https://github.com/msmaiaa/msmaiaa/blob/main/catBallon.gif" width="40px">
 
 </h1>
