@@ -26,7 +26,8 @@
    
    <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp<br>
- I want  <b>to learn and Improve </b>
+<img src="https://camo.githubusercontent.com/c32894044d6a09e5b5436aee5f981f808504f696f8d6f85fbdd3dc5ce49fb1cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f716a715563674979526a736c322f67697068792e676966" width="68px">
+   I want  <b>to learn and Improve </b>
     <b>my 📈 UI/UX Skills</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
    
   </em> 
