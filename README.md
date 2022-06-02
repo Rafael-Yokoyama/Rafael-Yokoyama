@@ -131,7 +131,12 @@
  
  <br>
       
-  > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***- Thanks for visiting.  <br>
+  > 
+ <div align="right">Hi, nice to meet you
+    <img align="right" src=".github/bat.gif" alt="Bat" width="50">
+   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</div>
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***- Thanks for visiting.  <br>
  Enjoy!!!  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> :***
 
   
