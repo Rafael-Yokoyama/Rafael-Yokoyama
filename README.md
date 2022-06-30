@@ -46,8 +46,7 @@
      <h1 align="center">  
  <br/>
 
-                                                                                                                                                      
-
+                                                                                                                                                    
  <img src=".github/star.gif" alt="STAR" width="40"> &nbsp;***Languages & Tools I Know...***
 <p align="left">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
