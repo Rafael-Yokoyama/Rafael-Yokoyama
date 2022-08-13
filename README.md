@@ -7,7 +7,6 @@
 <!-- PRESENTATION (GIF) -->
 <img align="left" src=".github/cat.gif" alt=".github/cat.gif"  width="20%"/>
 
-
 <h1 align="right">Hi, nice to meet you
     <img align="right" src=".github/bat.gif" alt="Bat" width="50">
 </h1>
@@ -131,6 +130,3 @@
 
 
   
-
- 
-
